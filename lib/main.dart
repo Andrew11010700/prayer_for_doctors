@@ -82,6 +82,8 @@ class MyHomePage extends StatelessWidget {
                    }).toList(),
                  ),
 
+                 const SizedBox(height: 70),
+
                ],
              ),
            )
